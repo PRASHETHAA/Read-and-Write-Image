@@ -24,7 +24,7 @@ End the program and close the output image windows.
     
     
 ## Program:
-### Developed By:Prashethaa
+### Developed By:Prashethaa R
 ### Register Number:212220230036
     
 i) #To Read,display the image
